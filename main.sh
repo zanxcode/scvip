@@ -30,10 +30,10 @@ fi
 export IP=$( curl -sS icanhazip.com )
 clear
 echo -e "${yell}   ───────────────────────────────────────────────────${NC}"
-echo -e "     Welcome To Bvstore Project ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "     Welcome To Zanxcode Project ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "     This Will Quick Setup VPN Server On Your Server"
-echo -e "     Auther : ${green} Bayu Tunneling ${NC}${yell}(${NC}${green} Project ${NC}${yell})${NC}"
-echo -e "    © Recode By Bayu Tunneling${NC}"
+echo -e "     Author : ${green} Zanxcode ${NC}${yell}(${NC}${green} Project ${NC}${yell})${NC}"
+echo -e "    © Build by Zanxcode ${NC}"
 echo -e "${yell}   ───────────────────────────────────────────────────${NC}"
 echo ""
 sleep 4
